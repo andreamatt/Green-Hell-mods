@@ -1,0 +1,11 @@
+﻿{
+	"Id": "Graphics",
+	"DisplayName": "Graphics",
+	"Author": "Babbo Elu",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.22.5",
+	"Requirements": [],
+	"AssemblyName": "Graphics.dll",
+	"EntryMethod": "Graphics.Main.Load",
+	"HomePage": "https://github.com/andreamatt/Green-Hell-mods"
+}
